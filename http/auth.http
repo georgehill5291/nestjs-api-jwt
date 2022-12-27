@@ -1,0 +1,18 @@
+POST  http://localhost:3333/auth/signup
+Content-Type: application/json
+
+{
+    "email": "hieuden3@gmail.com",
+    "password": "dev123@",
+    "id": 1
+}
+### 
+
+POST  http://localhost:3333/auth/signin
+Content-Type: application/json
+
+{
+    "email": "hieuden0@gmail.com",
+    "password": "dev123@"
+}
+### 

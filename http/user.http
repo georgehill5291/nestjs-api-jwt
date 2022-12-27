@@ -1,0 +1,2 @@
+GET  http://localhost:3333/users/me
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjMsImVtYWlsIjoiaGlldWRlbjBAZ21haWwuY29tIiwiaWF0IjoxNjcyMTM4MTQ2LCJleHAiOjE2NzIxMzkwNDZ9.xyGEows1metDzA2u1U7chQ6DNoEGeL-RnnG4aM3WUR4
